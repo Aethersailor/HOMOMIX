@@ -2,7 +2,6 @@ name: Update README with icons
 
 # 触发条件：当代码推送（push）到 main 分支时触发
 on:
-  workflow_dispatch:
   push:
     branches:
       - main
